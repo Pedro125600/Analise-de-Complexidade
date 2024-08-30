@@ -10,7 +10,16 @@ namespace analise
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(LetraA(2));
+            Console.WriteLine(LetraB(2));
+            Console.WriteLine(LetraC(2));
+            Console.WriteLine(LetraD(2));
+            Console.WriteLine(LetraE(2));
+            Console.WriteLine(LetraF(2));
 
+
+
+            Console.ReadLine();
 
             Console.ReadLine();
         }
